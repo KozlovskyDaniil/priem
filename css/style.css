@@ -2203,6 +2203,16 @@ h1, h2, h3, h4, h5,
   {
     display: none;
   }
+
+  .asu-text
+  {
+    font-size: 20px;
+  }
+
+  #banner-text-asu
+  {
+    font-size: 12px;
+  }
 }
 
 .link:hover
