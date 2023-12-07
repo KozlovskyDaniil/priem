@@ -483,7 +483,7 @@ h1, h2, h3, h4, h5,
 
 .site-section 
 {
-  padding: 2.5em 0; 
+  padding: 2.5em 0;
 }
 
 @media (min-width: 768px) 
@@ -2037,13 +2037,13 @@ h1, h2, h3, h4, h5,
   padding: .5rem 0; 
 }
 
-.block__35630 .icon > span 
+.block .icon > span 
 {
   font-size: 3rem;
   color: #3A0CA3; 
 }
 
-.block__35630 h3 
+.block h3 
 {
   color: #000;
   font-size: 1.4rem; 
@@ -2203,16 +2203,6 @@ h1, h2, h3, h4, h5,
   {
     display: none;
   }
-
-  .asu-text
-  {
-    font-size: 22px;
-  }
-
-  #banner-text-asu
-  {
-    font-size: 14px;
-  }
 }
 
 .link:hover
@@ -2224,3 +2214,23 @@ header
 {
   font-family: 'Rubik', sans-serif;
 }
+
+/*  */
+
+.faculty-name
+{
+  color: rgb(255, 255, 255);
+  font-size: 40px;
+  text-transform: uppercase;
+  font-family: "Oswald", sans-serif;
+  letter-spacing: 3px;
+}
+
+.text-justify
+{
+  text-align: justify;
+}
+
+
+
+          
